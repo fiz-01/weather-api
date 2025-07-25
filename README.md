@@ -131,6 +131,7 @@ This project uses GitHub Actions to:
 
 ---
 
+
 ## License
 
-This project is licensed under the MIT License.
+N/A
